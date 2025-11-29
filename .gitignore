@@ -3,3 +3,8 @@
 datasets
 test.png
 
+Challenge/
+
+
+__pycache__
+data/
