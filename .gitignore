@@ -3,8 +3,11 @@
 datasets
 test.png
 
-Challenge/
+#### Latex ####
+*.bbl
+*.gz
 
+Challenge/
 
 __pycache__
 data/
